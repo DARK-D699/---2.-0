@@ -1,5 +1,3 @@
-h2 align="center"> <img src="https://raw.githubusercontent.com/DARK-H4CKER01/CODEX/refs/heads/main/files/Dx-codex.jpg" width="470" /> </h2>
-
 <p align="center">
 
 <p align="center"><b>Codex Banner</b <code></code></p>
