@@ -1,6 +1,6 @@
 <p align="center">
 
-<p align="center"><b>Codex Banner</b <code></code></p>
+<p align="center"><b>Dark Banner</b <code></code></p>
 
 
 
